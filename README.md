@@ -9,7 +9,11 @@ MealMonkey is an application developed by Swift, It is the easiest way for a cus
 * Xcode
 * FireBase
 
+# Compatibility
+
+Running on Swift 5.1
+
 # To-do list
 
 
-# Images
+# Screenshots
